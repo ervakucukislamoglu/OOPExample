@@ -1,0 +1,16 @@
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\bin\Debug\net5.0\OOPEXAMPLE.exe
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\bin\Debug\net5.0\OOPEXAMPLE.deps.json
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\bin\Debug\net5.0\OOPEXAMPLE.runtimeconfig.json
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\bin\Debug\net5.0\OOPEXAMPLE.runtimeconfig.dev.json
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\bin\Debug\net5.0\OOPEXAMPLE.dll
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\bin\Debug\net5.0\OOPEXAMPLE.pdb
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\obj\Debug\net5.0\OOPEXAMPLE.csproj.AssemblyReference.cache
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\obj\Debug\net5.0\OOPEXAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\obj\Debug\net5.0\OOPEXAMPLE.AssemblyInfoInputs.cache
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\obj\Debug\net5.0\OOPEXAMPLE.AssemblyInfo.cs
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\obj\Debug\net5.0\OOPEXAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\obj\Debug\net5.0\OOPEXAMPLE.dll
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\obj\Debug\net5.0\refint\OOPEXAMPLE.dll
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\obj\Debug\net5.0\OOPEXAMPLE.pdb
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\obj\Debug\net5.0\OOPEXAMPLE.genruntimeconfig.cache
+C:\Users\ervak\OneDrive\Masaüstü\OOPEXAMPLE\obj\Debug\net5.0\ref\OOPEXAMPLE.dll
