@@ -17,6 +17,8 @@ namespace OOPEXAMPLE
 
             Console.WriteLine(macbookAir.TouchScreen);
             Console.WriteLine(asusZenbook.TouchScreen);
+
+            Console.WriteLine("Git denemesi için eklenen cw");
         }
     }
 

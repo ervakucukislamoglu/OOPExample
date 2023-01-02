@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ervak\\OneDrive\\Masaüstü\\OOPEXAMPLE\\OOPEXAMPLE.csproj": {}
+    "C:\\Users\\ervak\\OneDrive\\Masaüstü\\OrnekRepo\\OOPEXAMPLE\\OOPEXAMPLE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ervak\\OneDrive\\Masaüstü\\OOPEXAMPLE\\OOPEXAMPLE.csproj": {
+    "C:\\Users\\ervak\\OneDrive\\Masaüstü\\OrnekRepo\\OOPEXAMPLE\\OOPEXAMPLE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ervak\\OneDrive\\Masaüstü\\OOPEXAMPLE\\OOPEXAMPLE.csproj",
+        "projectUniqueName": "C:\\Users\\ervak\\OneDrive\\Masaüstü\\OrnekRepo\\OOPEXAMPLE\\OOPEXAMPLE.csproj",
         "projectName": "OOPEXAMPLE",
-        "projectPath": "C:\\Users\\ervak\\OneDrive\\Masaüstü\\OOPEXAMPLE\\OOPEXAMPLE.csproj",
+        "projectPath": "C:\\Users\\ervak\\OneDrive\\Masaüstü\\OrnekRepo\\OOPEXAMPLE\\OOPEXAMPLE.csproj",
         "packagesPath": "C:\\Users\\ervak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ervak\\OneDrive\\Masaüstü\\OOPEXAMPLE\\obj\\",
+        "outputPath": "C:\\Users\\ervak\\OneDrive\\Masaüstü\\OrnekRepo\\OOPEXAMPLE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
